@@ -23,3 +23,4 @@ output    = @ROOT@/.coverage/coverage.xml
 
 [json]
 output    = @ROOT@/.coverage/coverage.json
+
