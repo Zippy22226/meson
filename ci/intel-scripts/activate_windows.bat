@@ -14,3 +14,4 @@ echo "OneAPI version: %LATEST_VERSION%"
 echo "C:\Program Files (x86)\Intel\oneAPI\compiler\%LATEST_VERSION%\env\vars.bat"
 echo "OneAPI root directory: %ONEAPI_ROOT%"
 where ifort.exe
+
